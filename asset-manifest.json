@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Lauramunozg1025/Ejercicio-Heroku.git/static/js/main.eb581595.js",
-    "index.html": "/Lauramunozg1025/Ejercicio-Heroku.git/index.html",
-    "main.eb581595.js.map": "/Lauramunozg1025/Ejercicio-Heroku.git/static/js/main.eb581595.js.map"
+    "main.js": "/Lauramunozg1025/Ejercicio-Heroku/static/js/main.9995c379.js",
+    "index.html": "/Lauramunozg1025/Ejercicio-Heroku/index.html",
+    "main.9995c379.js.map": "/Lauramunozg1025/Ejercicio-Heroku/static/js/main.9995c379.js.map"
   },
   "entrypoints": [
-    "static/js/main.eb581595.js"
+    "static/js/main.9995c379.js"
   ]
 }
